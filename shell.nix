@@ -5,8 +5,8 @@ pkgs.mkShell {
   name = "dev-shell";
 
   nativeBuildInputs = with pkgs; [
-    bootdev-cli
     go
+    go-tools
   ];
 
   PORT = "8080";

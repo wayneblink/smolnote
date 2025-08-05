@@ -1,5 +1,7 @@
 # smolnote
 
+![code coverage badge](https://github.com/wayneblink/smolnote/actions/workflows/ci.yml/badge.svg)
+
 "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ## Local Development

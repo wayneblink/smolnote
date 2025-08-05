@@ -7,8 +7,9 @@ pkgs.mkShell {
   nativeBuildInputs = with pkgs; [
     bootdev-cli
     go
-    go-tools
+    google-cloud-sdk
     gosec
+    go-tools
   ];
 
   PORT = "8080";
